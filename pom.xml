@@ -98,6 +98,8 @@
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/com.relevantcodes/extentreports -->
+		<!-- newly updated line -->
+		
 		<dependency>
 			<groupId>com.relevantcodes</groupId>
 			<artifactId>extentreports</artifactId>
